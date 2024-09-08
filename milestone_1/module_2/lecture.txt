@@ -1,0 +1,8 @@
+#Introduction to CSS and CSS types (inline, internal, external)
+#CSS Text: text color, text alignment,text decoration,font size, font family, font-style
+#CSS Selectors (basic): id, class, universal, tags, grouping, attribute, id vs class
+#Mixed Selectors multiple classes, combined selectors, attribute, div, span
+#CSS Borders Border, border-radius, Margin, different ways to set margin
+# CSS Box model Padding, border, content, height, width
+# CSS Display none, hidden, inline, block, inline-block, box-shadow
+# CSS Background color, image, repeat, position, size, relative image path

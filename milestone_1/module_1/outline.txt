@@ -1,0 +1,8 @@
+#creating paragraph text formatting(b,i,strong,em)
+# Heading,small and inline vs block (div,span)
+# Container tag, list tags (ol, ul, li), line break, button
+#Creating links with the anchor tag and its attributes (href, target)
+#HTML Image: Display online image, local image, folder image
+#HTML Form: input types, buttons, select, option, login form
+#HTML Structure: Doctype, html, head, meta, title, body
+#Basic HTML concepts and practice task
